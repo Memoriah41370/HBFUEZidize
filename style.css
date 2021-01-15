@@ -1,0 +1,33 @@
+body{
+background: radial-gradient(white,grey, black);
+}
+a{
+text-decoration: none;
+color: black;
+}
+#P{
+border-left:solid;
+border-right:solid;
+border-color: white;
+border-width:1px;
+width:10%;
+display:inline-block;
+background-color: black;
+position: sticky;
+top:1%;
+z-index: 1;
+}
+#P:hover{
+box-shadow: 1px 1px 22px black;
+z-index: 1;
+}
+.navigation{
+text-align:center;
+position: sticky;
+top:1%;
+z-index: 1;
+}
+.nav{
+color:white;
+text-align: center;
+}
