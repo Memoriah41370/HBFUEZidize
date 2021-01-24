@@ -5,16 +5,15 @@ a{
 text-decoration: none;
 color: black;
 }
-p{
-text-align: center;
-border-bottom: solid;
-}
 .container{
 height:50%;
 margin-top:15%;
 margin-left:15%;
 margin-right:15%;
-
+border:solid;
+border-width: 1px;
+background-color:white;
+box-shadow: 1px 1px 22px black;
 }
 .CV{
 float:right;
@@ -31,4 +30,7 @@ position:relative;
 box-shadow: 1px 1px 22px black;
 z-index: 1;
 -webkit-transform:scale(1.25);
+}
+.pres{
+text-align: center;
 }
