@@ -6,7 +6,6 @@ text-decoration: none;
 color: black;
 }
 .container{
-height:50%;
 margin-top:15%;
 margin-left:15%;
 margin-right:15%;
@@ -16,14 +15,12 @@ background-color:white;
 box-shadow: 1px 1px 22px black;
 }
 .CV{
-float:right;
-height:75%;
 width:50%;
+
 }
 .LM{
-float:left;
 width:50%;
-height:75%;
+float:right;
 }
 button:hover{
 position:relative;
