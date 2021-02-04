@@ -83,6 +83,9 @@ nav > ul li:hover .sous{
 .titre{
   text-align:center;
 }
+#centre{
+  text-align:center;
+}
 }
 body{
 background: radial-gradient(white,grey, black);
@@ -166,5 +169,8 @@ nav > ul li:hover .sous{
   border:solid;
 }
 .titre{
+  text-align:center;
+}
+#centre{
   text-align:center;
 }
