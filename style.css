@@ -1,4 +1,11 @@
 @media(min-width: 768px) and (max-width: 1366 px){
+  img{
+    -moz-border-radius:10px 0;
+    -webkit-border-radius:10px 0;
+    border-radius:10px 0;
+    height: 100px;
+    text-align: center;
+  }
 body{
 background: radial-gradient(white,grey, black);
 }
@@ -86,6 +93,9 @@ nav > ul li:hover .sous{
 #centre{
   text-align:center;
 }
+#image{
+  text-align:center;
+}
 }
 body{
 background: radial-gradient(white,grey, black);
@@ -167,10 +177,20 @@ nav > ul li:hover .sous{
   margin: 5% auto ;
   background-color:white;
   border:solid;
+  margin-left: 25%;
+  margin-right: 25%;
 }
 .titre{
   text-align:center;
 }
-#centre{
+.centre{
+  text-align:center;
+}
+img{
+  border-radius:10px 0;
+  height: 100px;
+  text-align: center;
+}
+#image{
   text-align:center;
 }
