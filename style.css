@@ -112,7 +112,7 @@
     width:400px;
     height: 200px;
     border:solid;
-    background-image:url(/images/twitter.png);
+    background-image:url(images/twitter.PNG);
     background-size:contain;
     margin:20px;
 
@@ -121,7 +121,7 @@
     width:400px;
     height: 200px;
     border:solid;
-    background-image:url(/images/twitter.png);
+    background-image:url(images/twitter.PNG);
     background-size:contain;
     margin:20px;
   box-shadow:  0 0 1em black;
@@ -130,7 +130,7 @@
     width:400px;
     height: 200px;
     border:solid;
-    background-image:url(/images/ytb.png);
+    background-image:url(images/ytb.PNG);
     background-size:contain;
     margin:20px;
   }
@@ -138,7 +138,7 @@
     width:400px;
     height: 200px;
     border:solid;
-    background-image:url(/images/ytb.png);
+    background-image:url(images/ytb.PNG);
     background-size:contain;
     margin:20px;
     box-shadow:  0 0 1em black;
@@ -147,7 +147,7 @@
     width:400px;
     height: 200px;
     border:solid;
-    background-image:url(/images/insta.png);
+    background-image:url(images/insta.PNG);
     background-size:contain;
     margin:20px;
 
@@ -156,7 +156,7 @@
     width:400px;
     height: 200px;
     border:solid;
-    background-image:url(/images/insta.png);
+    background-image:url(images/insta.PNG);
     background-size:contain;
     margin:20px;
     box-shadow:  0 0 1em black;
@@ -165,7 +165,7 @@
     width:400px;
     height: 200px;
     border:solid;
-    background-image:url(/images/facebook.png);
+    background-image:url(images/facebook.PNG);
     background-size:contain;
     margin:20px;
 
@@ -174,7 +174,7 @@
     width:400px;
     height: 200px;
     border:solid;
-    background-image:url(/images/facebook.png);
+    background-image:url(images/facebook.PNG);
     background-size:contain;
     margin:20px;
     box-shadow:  0 0 1em black;
@@ -183,7 +183,7 @@
     width:400px;
     height: 200px;
     border:solid;
-    background-image:url(/images/twitch.png);
+    background-image:url(images/twitch.png);
     background-size:contain;
     margin:20px;
 
@@ -192,7 +192,7 @@
     width:400px;
     height: 200px;
     border:solid;
-    background-image:url(/images/twitch.png);
+    background-image:url(images/twitch.png);
     background-size:contain;
     margin:20px;
     box-shadow:  0 0 1em black;
@@ -201,7 +201,7 @@
     width:400px;
     height: 200px;
     border:solid;
-    background-image:url(/images/linkedin.png);
+    background-image:url(images/linkedin.PNG);
     background-size:contain;
     margin:20px;
 
@@ -210,7 +210,7 @@
     width:400px;
     height: 200px;
     border:solid;
-    background-image:url(/images/linkedin.png);
+    background-image:url(images/linkedin.PNG);
     background-size:contain;
     margin:20px;
     box-shadow:  0 0 1em black;
@@ -219,7 +219,7 @@
     width:400px;
     height: 200px;
     border:solid;
-    background-image:url(/images/indeed.png);
+    background-image:url(images/indeed.PNG);
     background-size:contain;
     margin:20px;
 
@@ -228,7 +228,7 @@
     width:400px;
     height: 200px;
     border:solid;
-    background-image:url(/images/indeed.png);
+    background-image:url(images/indeed.PNG);
     background-size:contain;
     margin:20px;
     box-shadow:  0 0 1em black;
@@ -237,7 +237,7 @@
     width:400px;
     height: 200px;
     border:solid;
-    background-image:url(/images/github.png);
+    background-image:url(images/github.PNG);
     background-size:contain;
     margin:20px;
 
@@ -246,7 +246,7 @@
     width:400px;
     height: 200px;
     border:solid;
-    background-image:url(/images/github.png);
+    background-image:url(images/github.PNG);
     background-size:contain;
     margin:20px;
     box-shadow:  0 0 1em black;
@@ -368,7 +368,7 @@ display:inline-block;
   width:400px;
   height: 200px;
   border:solid;
-  background-image:url(/images/twitter.png);
+  background-image:url(images/twitter.PNG);
   background-size:contain;
   margin:20px;
 
@@ -377,7 +377,7 @@ display:inline-block;
   width:400px;
   height: 200px;
   border:solid;
-  background-image:url(/images/twitter.png);
+  background-image:url(images/twitter.PNG);
   background-size:contain;
   margin:20px;
 box-shadow:  0 0 1em black;
@@ -386,7 +386,7 @@ box-shadow:  0 0 1em black;
   width:400px;
   height: 200px;
   border:solid;
-  background-image:url(/images/ytb.png);
+  background-image:url(images/ytb.PNG);
   background-size:contain;
   margin:20px;
 }
@@ -394,7 +394,7 @@ box-shadow:  0 0 1em black;
   width:400px;
   height: 200px;
   border:solid;
-  background-image:url(/images/ytb.png);
+  background-image:url(images/ytb.PNG);
   background-size:contain;
   margin:20px;
   box-shadow:  0 0 1em black;
@@ -403,7 +403,7 @@ box-shadow:  0 0 1em black;
   width:400px;
   height: 200px;
   border:solid;
-  background-image:url(/images/insta.png);
+  background-image:url(images/insta.PNG);
   background-size:contain;
   margin:20px;
 
@@ -412,7 +412,7 @@ box-shadow:  0 0 1em black;
   width:400px;
   height: 200px;
   border:solid;
-  background-image:url(/images/insta.png);
+  background-image:url(images/insta.PNG);
   background-size:contain;
   margin:20px;
   box-shadow:  0 0 1em black;
@@ -421,7 +421,7 @@ box-shadow:  0 0 1em black;
   width:400px;
   height: 200px;
   border:solid;
-  background-image:url(/images/facebook.png);
+  background-image:url(images/facebook.PNG);
   background-size:contain;
   margin:20px;
 
@@ -430,7 +430,7 @@ box-shadow:  0 0 1em black;
   width:400px;
   height: 200px;
   border:solid;
-  background-image:url(/images/facebook.png);
+  background-image:url(images/facebook.PNG);
   background-size:contain;
   margin:20px;
   box-shadow:  0 0 1em black;
@@ -439,7 +439,7 @@ box-shadow:  0 0 1em black;
   width:400px;
   height: 200px;
   border:solid;
-  background-image:url(/images/twitch.png);
+  background-image:url(images/twitch.PNG);
   background-size:contain;
   margin:20px;
 
@@ -448,7 +448,7 @@ box-shadow:  0 0 1em black;
   width:400px;
   height: 200px;
   border:solid;
-  background-image:url(/images/twitch.png);
+  background-image:url(images/twitch.PNG);
   background-size:contain;
   margin:20px;
   box-shadow:  0 0 1em black;
@@ -457,7 +457,7 @@ box-shadow:  0 0 1em black;
   width:400px;
   height: 200px;
   border:solid;
-  background-image:url(/images/linkedin.png);
+  background-image:url(images/linkedin.PNG);
   background-size:contain;
   margin:20px;
 
@@ -466,7 +466,7 @@ box-shadow:  0 0 1em black;
   width:400px;
   height: 200px;
   border:solid;
-  background-image:url(/images/linkedin.png);
+  background-image:url(images/linkedin.PNG);
   background-size:contain;
   margin:20px;
   box-shadow:  0 0 1em black;
@@ -475,7 +475,7 @@ box-shadow:  0 0 1em black;
   width:400px;
   height: 200px;
   border:solid;
-  background-image:url(/images/indeed.png);
+  background-image:url(images/indeed.PNG);
   background-size:contain;
   margin:20px;
 
@@ -484,7 +484,7 @@ box-shadow:  0 0 1em black;
   width:400px;
   height: 200px;
   border:solid;
-  background-image:url(/images/indeed.png);
+  background-image:url(images/indeed.PNG);
   background-size:contain;
   margin:20px;
   box-shadow:  0 0 1em black;
@@ -493,7 +493,7 @@ box-shadow:  0 0 1em black;
   width:400px;
   height: 200px;
   border:solid;
-  background-image:url(/images/github.png);
+  background-image:url(images/github.PNG);
   background-size:contain;
   margin:20px;
 
@@ -502,7 +502,7 @@ box-shadow:  0 0 1em black;
   width:400px;
   height: 200px;
   border:solid;
-  background-image:url(/images/github.png);
+  background-image:url(images/github.PNG);
   background-size:contain;
   margin:20px;
   box-shadow:  0 0 1em black;
