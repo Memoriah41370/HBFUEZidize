@@ -108,7 +108,7 @@
   display:inline-block;
   }
 
-  #tw{
+  #twi{
     width:400px;
     height: 200px;
     border:solid;
@@ -117,7 +117,7 @@
     margin:20px;
 
   }
-  #tw:hover{
+  #twi:hover{
     width:400px;
     height: 200px;
     border:solid;
@@ -179,7 +179,7 @@
     margin:20px;
     box-shadow:  0 0 1em black;
   }
-  #twi{
+  #tw{
     width:400px;
     height: 200px;
     border:solid;
@@ -188,7 +188,7 @@
     margin:20px;
 
   }
-  #twi:hover{
+  #tw:hover{
     width:400px;
     height: 200px;
     border:solid;
@@ -364,7 +364,7 @@ display:inline-block;
 display:inline-block;
 }
 
-#tw{
+#twi{
   width:400px;
   height: 200px;
   border:solid;
@@ -373,7 +373,7 @@ display:inline-block;
   margin:20px;
 
 }
-#tw:hover{
+#twi:hover{
   width:400px;
   height: 200px;
   border:solid;
@@ -435,7 +435,7 @@ box-shadow:  0 0 1em black;
   margin:20px;
   box-shadow:  0 0 1em black;
 }
-#twi{
+#tw{
   width:400px;
   height: 200px;
   border:solid;
@@ -444,7 +444,7 @@ box-shadow:  0 0 1em black;
   margin:20px;
 
 }
-#twi:hover{
+#tw:hover{
   width:400px;
   height: 200px;
   border:solid;
