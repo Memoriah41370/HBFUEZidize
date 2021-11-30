@@ -54,6 +54,7 @@ li a:hover {
        min-height: 100%;
        background-image: url("images/CV.png");
        background-repeat: no-repeat;
+       background-size: contain;
 
 }
 .center{
@@ -159,7 +160,10 @@ height:8em;
          margin-top: 1em;
          margin-bottom: 1em;
          min-height: 100%;
-         background-image: url("images/CV.png")
+         background-image: url("images/CV.png");
+         background-repeat: no-repeat;
+         background-size: contain;
+
 
   }
   .center{
