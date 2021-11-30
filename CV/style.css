@@ -44,7 +44,7 @@ li a:hover {
 
 #container{
        margin: 0 auto;
-       background-color: #fefee2;
+       background-color: white;
        border-left: solid;
        border-right: solid;
        margin-left: 2.5em;
@@ -152,7 +152,7 @@ height:8em;
 
   #container{
          margin: 0 auto;
-         background-color: #fefee2;
+         background-color: white;
          border-left: solid;
          border-right: solid;
          margin-left: 2.5em;
